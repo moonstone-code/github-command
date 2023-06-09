@@ -49,3 +49,7 @@ git log
         Date:   Thu Jun 8 13:19:33 2023 +0530
 
             1st commit on my project added new file"""
+
+git clone <repo -url>
+-- git clone https://github.com/moonstone-code/github-command.git 
+-- to clone the URL in local machine
