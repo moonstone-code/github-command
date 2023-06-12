@@ -53,9 +53,3 @@ git log
 git clone <repo -url>
 -- git clone https://github.com/moonstone-code/github-command.git 
 -- to clone the URL in local machine
-
-git push origin main
--- push from local to github
-
-git pull origin main
--- push from github to local
